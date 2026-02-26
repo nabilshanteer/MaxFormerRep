@@ -1,0 +1,1 @@
+Reproduction of Max-Former: https://arxiv.org/pdf/2505.18608
